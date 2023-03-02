@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: human mobility
 description: a project with no image
-img:
+img: assets/img/crowd.jpg
 importance: 4
-category: fun
+category: topic
 ---
 
 Every project has a beautiful feature showcase page.

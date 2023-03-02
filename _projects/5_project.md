@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
+title: healthcare disparity
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/healthcare.jpg
 importance: 3
-category: fun
+category: topic
 ---
 
 Every project has a beautiful feature showcase page.

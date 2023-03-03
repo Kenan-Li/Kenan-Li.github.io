@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: My teaching is centered on empowering students to become effective data analysts and problem solvers. The contents of my courses covered topics including, programing basics in R and Python, data visualization, spatial analysis, statistical learning, and geographic artificial intelligence. Through a combination of theoretical instruction, practical exercises, and real-world examples, I designed my classes to improve the students' ability of working with complex and diverse data sets and communicating their findings to a wide range of audiences.  My courses would prepare students for their careers in emerging fields of data science, and health informatics. 
-display_categories: [course]
-nav: true
-nav_order: 3
+title: People
+permalink: /people/
+description: My research aims to address pressing societal challenges by developing novel analytical tools and approaches that can be used to inform policy and practice. Through a combination of theoretical and empirical research, I seek to advance people’s understanding of the complex interactions and interdependencies between ambient environmental exposure, human activities, community resilience, and health outcomes, and to develop innovative and effective methods for analyzing and addressing the challenges they present.
+nav: false
+display_categories: [director, student]
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
@@ -14,7 +14,7 @@ nav_order: 3
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.courses | where: "category", category -%}
+  {%- assign categorized_projects = site.people | where: "category", category -%}
   {%- assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
@@ -36,7 +36,7 @@ nav_order: 3
 
 {%- else -%}
 <!-- Display projects without categories -->
-  {%- assign sorted_projects = site.courses | sort: "importance" -%}
+  {%- assign sorted_projects = site.people | sort: "importance" -%}
   <!-- Generate cards for each project -->
   {% if page.horizontal -%}
   <div class="container">

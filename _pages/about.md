@@ -6,7 +6,7 @@ subtitle: Assistant Professor, Department of Epidemiology and Biostatistics, <a 
 
 profile:
   align: right
-  image: headshot_01.jpg
+  image: headshot_02.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Salus Center, Room 480</p>

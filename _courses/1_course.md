@@ -14,10 +14,13 @@ category: course
           978-1-5264-2849-3 (Hardcover)
     Publisher: SAGE Publishing
     ---
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/textbook_R.jpg" title="Textbook" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/textbook_R.jpg" title="textbook" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">    
     </div>
 </div>
 <div class="caption">

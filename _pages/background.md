@@ -2,73 +2,15 @@
 layout: page
 title: Background
 permalink: /background/
-description: My research aims to address pressing societal challenges by developing novel analytical tools and approaches that can be used to inform policy and practice. Through a combination of theoretical and empirical research, I seek to advance people’s understanding of the complex interactions and interdependencies between ambient environmental exposure, human activities, community resilience, and health outcomes, and to develop innovative and effective methods for analyzing and addressing the challenges they present.
+description: This lab is sponsored by the Taylor Geospatial Institute for advancing research in geospatial science and providing resources to support geospatial analysis in public health. 
 nav: false
 ---
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The `G`eographical `R`easoning `a`nd `P`ublic `H`ealth (`GRAPH`) Lab was founded by Dr. Kenan Li with the mission of using geospatial analysis to address a wide range of public health challenges. Geospatial reasoning refers to the process of analyzing and interpreting geographic data to gain insights into various phenomena, such as the distribution of disease, environmental factors, and human behavior. In public health, geospatial reasoning is often used to understand and address health disparities, track disease outbreaks, and inform policy decisions.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The GRAPH Lab has undertaken various projects under Dr. Li's leadership to address public health challenges and provide training and resources to public health practitioners, policymakers, and researchers on how to use geospatial analysis tools to improve public health outcomes. Specifically, the lab focuses on using geospatial analysis to address health disparities, track disease outbreaks, identify environmental hazards, support emergency response efforts, and prevent chronic diseases. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The lab's work in health disparities involves using geospatial analysis to identify areas with higher rates of disparities, such as neighborhoods with limited access to healthcare facilities or healthy food options. This information is used to develop targeted interventions to address these disparities. In tracking disease outbreaks, the lab uses GIS to identify populations at risk of infection and allocate prevention and control measures to specific areas and populations.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The lab also identifies environmental hazards, such as air pollution or contaminated water sources, and their impact on public health. This information is used to develop policies and interventions to reduce exposure to these hazards. In supporting emergency response efforts, the lab uses Geographical Information Systems (GIS) tools and statistical learning methods to identify populations at risk, track the movement of affected populations, and allocate resources to areas where they are most needed. Moreover, the lab works on preventing chronic diseases by identifying areas with high rates of chronic diseases, such as diabetes or heart disease, and developing targeted prevention and control measures.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+With the support of the <a href="https://taylorgeospatial.org/" target="_blank">Taylor Geospatial Institute </a>, the GRAPH Lab is able to undertake ambitious research projects and develop new approaches of using geospatial analysis to improve public health outcomes. The lab's work is helping to advance the field of geospatial reasoning in public health and contributing to the development of innovative solutions to pressing public health challenges.

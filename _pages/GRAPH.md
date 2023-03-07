@@ -1,6 +1,6 @@
 ---
 layout: page
-title: GRAPH
+title: GRAPH Lab
 nav: true
 nav_order: 6
 dropdown: true

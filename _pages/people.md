@@ -2,6 +2,7 @@
 layout: page
 title: People
 permalink: /people/
+description: The GRAPH Lab is a team of multidisciplinary researchers specialized in geospatial analysis and biostatistics. The lab members bring a wealth of expertise to the field of public health and social justice, and are committed to using GIS and machine learning tools to promote social justice and improve public health outcomes.
 nav: false
 display_categories: [director, student]
 horizontal: false

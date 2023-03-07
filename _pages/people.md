@@ -2,7 +2,6 @@
 layout: page
 title: People
 permalink: /people/
-description: My research aims to address pressing societal challenges by developing novel analytical tools and approaches that can be used to inform policy and practice. Through a combination of theoretical and empirical research, I seek to advance people’s understanding of the complex interactions and interdependencies between ambient environmental exposure, human activities, community resilience, and health outcomes, and to develop innovative and effective methods for analyzing and addressing the challenges they present.
 nav: false
 display_categories: [director, student]
 horizontal: false

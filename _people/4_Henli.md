@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Henli Shih
-description: M.S. in Biostatistics
-img: assets/img/7.jpg
+description: MPH Biostatistics/Epidemiology, henli.shih@slu.edu
+img: assets/img/headshot_Henli.jpg
 importance: 3
 category: student
 --- 
+Research interests: Cancer Prevention, Chronic Disease Prevention, Epidemiology, Health Disparity and Social Determinants, Geospatial Data Visualization.  
+
+
+<a href="https://www.linkedin.com/in/henli-shih-ab3780220/"><i class="fab fa-linkedin-in fa-3x"></i></a>

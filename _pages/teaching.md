@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: My teaching is centered on empowering students to become effective data analysts and problem solvers. The contents of my courses covered topics including, programing basics in R and Python, data visualization, spatial analysis, statistical learning, and geographic artificial intelligence. Through a combination of theoretical instruction, practical exercises, and real-world examples, I designed my classes to improve the students' ability of working with complex and diverse data sets and communicating their findings to a wide range of audiences.  My courses would prepare students for their careers in emerging fields of data science, and health informatics. 
-display_categories: [course]
+display_categories: [Courses]
 nav: true
 nav_order: 3
 ---

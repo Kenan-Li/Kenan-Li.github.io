@@ -5,5 +5,5 @@ description: Food Desert; COVID-19 Pandemic and Food Access; Food Accessibiity a
 img: assets/img/food.jpg
 redirect: https://unsplash.com
 importance: 3
-category: topic
+category: Topics
 ---

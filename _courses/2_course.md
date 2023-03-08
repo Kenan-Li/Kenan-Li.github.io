@@ -4,7 +4,7 @@ title: Statistical Learning
 description: By providing students with a comprehensive introduction to statistical and machine learning models, this course equips them with powerful tools for making data-driven decisions in diverse fields, including business, healthcare, engineering, and beyond.
 img: assets/img/bst5500.jpg
 importance: 2
-category: course
+category: Courses
 ---
 
     ---

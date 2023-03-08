@@ -5,5 +5,5 @@ description: Shapelets Discovery; Wavelet Tranformation; Shapelets-Based Classfi
 img: assets/img/shapelet.jpg
 redirect: https://unsplash.com
 importance: 3
-category: method
+category: Methods
 ---

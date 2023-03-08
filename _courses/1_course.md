@@ -4,7 +4,7 @@ title: R for Spatial Analysis
 description: This course provides students with essential skills in R for spatial data analysis, empowering them to conduct cutting-edge research in fields such as geography, ecology, and urban planning, and to visualize spatial data in dynamic and compelling ways.
 img: assets/img/bst5600.jpg
 importance: 1
-category: course
+category: Courses
 ---
 
     ---

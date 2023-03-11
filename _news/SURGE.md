@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Scholarly Undergraduate Research Grants and Experiences program
+title: Scholarly Undergraduate Research Grants and Experiences
 date: 2023-02-27 16:00:00-0400
 inline: false
 ---
 
-Dr. Kenan Li has been awarded a grant through the Scholarly Undergraduate Research Grants and Experiences (SURGE) program at Saint Louis University.
+Dr. Kenan Li is awarded a grant through the Scholarly Undergraduate Research Grants and Experiences (SURGE) program at Saint Louis University.
 
 ***
 

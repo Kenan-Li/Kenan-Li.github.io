@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Tim Ezebuiro
-description: B.S. in Environmental Sciences, timothy.ezebuiro@slu.edu
-img: assets/img/7.jpg
+title: Timothy Ezebuiro
+description: MS Biostatistics and Geospatial Health Data Analytics 
+img: assets/img/headshot_Timothy.jpg
 importance: 6
 category: Graduates
 --- 
